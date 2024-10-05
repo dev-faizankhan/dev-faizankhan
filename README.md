@@ -1,5 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/personal-portfolio-a01e6.appspot.com/o/template.jpg?alt=media&token=8aeca48e-2163-474a-bab5-ca6b1b57ca24)](https://personal-portfolio-smoky-rho.vercel.app/)
-
 <h1 align="center">Hi 👋, I'm Faizan Khan</h1>
 <h3 align="center">
 I am a passionate Web & Mobile App Developer with over 5 years of experience building high-performing applications using the MERN, MEEN, and PERN stacks (React, EJS, Node.js, Express, MongoDB, PostgreSQL), as well as React Native for Android and iOS mobile applications. I deliver clean, user-friendly experiences and stay up-to-date with the latest trends. My focus on quality and continuous learning has enabled me to deliver successful projects for my clients.

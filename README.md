@@ -1,102 +1,185 @@
-<h1 align="center">Hi 👋, I'm Faizan Khan</h1>
-<h3 align="center">
-I am a professional Full Stack Developer with over 6 years of experience in building high-performing web, mobile, and desktop applications. I specialize in using modern technologies and frameworks to deliver clean, user-friendly experiences. My focus on quality and continuous learning has enabled me to deliver successful projects for my clients.
-</h3>
+# 👋 Hey there! I'm Faizan Khan
+### 🚀 Senior Full-Stack Developer | Tech Innovator | Digital Architect
 
-<h3 align="center">
-Currently, I am working at <a href="https://metapixus.com" target="_blank">MetaPixus</a> and I love working in a remote environment.
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;6%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-faizankhan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-faizankhan" />
+  <img src="https://img.shields.io/github/followers/dev-faizankhan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-## 🔗 Connect with me
+**🌟 Professional Full Stack Developer** with **6+ years** of experience crafting high-performing web, mobile, and desktop applications. Currently building amazing solutions at **[MetaPixus](https://metapixus.com)** 🏢 and thriving in remote collaboration environments.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-faizan)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.faizankhn@gmail.com)
+I specialize in modern technologies and frameworks, delivering clean, user-friendly experiences with a focus on quality, performance, and continuous innovation.
 
-## 💼 Skills
+---
 
-### Languages
+## 🎯 Quick Overview
 
+```javascript
+const faizanKhan = {
+  title: "Senior Full-Stack Developer",
+  experience: "6+ years",
+  currentRole: "Developer at MetaPixus",
+  location: "Remote 🌍",
+  expertise: ["Web Development", "Mobile Apps", "Cloud Solutions", "Database Design"],
+  passion: "Building scalable solutions that solve real-world problems",
+  workStyle: "Remote-first, collaboration-focused",
+  currentlyLearning: ["Advanced Cloud Architecture", "AI/ML Integration"],
+  motto: "Code with purpose, ship with confidence! 🚀"
+};
+```
+
+---
+
+## 🛠️ Technology Arsenal
+
+### **💻 Programming Languages**
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" title="Dart" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Frontend
-
+### **⚛️ Frontend Technologies**
 <p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" title="React Native" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" /></a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
 
-### Backend
-
+### **🔧 Backend & Server Technologies**
 <p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" /></a>
-  <a href="https://www.fastify.io/" target="_blank"><img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" title="Fastify" /></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
-### Databases
-
+### **📱 Mobile Development**
 <p>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" title="SQL" /></a>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
-### Additional Skills
-
+### **🗄️ Databases & Storage**
 <p>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" title="Firebase" /></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" title="Xcode" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" title="Android Studio" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud" /></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-<!-- ## 🚀 Projects
-
-### Project 1
-[Project 1 Name](https://github.com/yourusername/project1) - Brief description of the project.
-
-### Project 2
-[Project 2 Name](https://github.com/yourusername/project2) - Brief description of the project.
-
-### Project 3
-[Project 3 Name](https://github.com/yourusername/project3) - Brief description of the project.
-
-## 🏆 Certifications
-
-- [Certification 1](https://linktocertification.com) - Brief description of the certification.
-- [Certification 2](https://linktocertification.com) - Brief description of the certification.
-
-## ✍️ Blog Posts
-
-- [Blog Post 1](https://linktoblogpost.com) - Brief description of the blog post.
-- [Blog Post 2](https://linktoblogpost.com) - Brief description of the blog post. -->
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-faizankhan&show_icons=true&theme=radical" alt="dev-faizankhan" />
+### **☁️ Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🤝 Let's Connect
+### **🛠️ Development Tools & IDEs**
+<p>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<p align="center">
-  If you are interested in collaborating on a project or just want to say hi, feel free to reach out to me!
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-faizan" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="mailto:dev.faizankhn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
-</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-faizankhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-faizankhan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-faizankhan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-faizankhan&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Professional Expertise
+
+<table>
+  <tr>
+    <td align="center">🎨<br><b>Frontend Development</b><br>Responsive, interactive UIs</td>
+    <td align="center">⚙️<br><b>Backend Architecture</b><br>Scalable server solutions</td>
+    <td align="center">📱<br><b>Mobile Development</b><br>Cross-platform applications</td>
+  </tr>
+  <tr>
+    <td align="center">☁️<br><b>Cloud Solutions</b><br>AWS & Google Cloud expert</td>
+    <td align="center">🗄️<br><b>Database Design</b><br>Optimized data structures</td>
+    <td align="center">🚀<br><b>Performance Optimization</b><br>Lightning-fast applications</td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Current Focus & Goals
+
+🔭 **Currently Working On:** Next-generation applications with cutting-edge technologies at MetaPixus  
+🌱 **Learning:** Advanced cloud architectures, AI/ML integration, Web3 technologies  
+👯 **Looking to Collaborate:** Open source projects, innovative startups, remote-first teams  
+💬 **Ask Me About:** Full-stack development, React/Next.js, mobile apps, database optimization  
+⚡ **Fun Fact:** I debug with coffee and deploy with confidence! ☕ → 🚀
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Professional Projects at MetaPixus
+Building innovative solutions for clients worldwide using modern tech stacks and best practices.
+
+### 🌟 Open Source Contributions
+Contributing to the developer community through open source projects and knowledge sharing.
+
+---
+
+## 📞 Let's Connect & Build Something Amazing!
+
+I'm always excited to discuss new opportunities, collaborate on interesting projects, or just chat about the latest in tech. Whether you're looking for a seasoned developer or want to explore exciting possibilities, let's make it happen!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dev-faizan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.faizankhn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dev-faizankhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+  
+  **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+  
+  *"The best code is not just functional, but beautiful, maintainable, and tells a story."* ✨
+</div>

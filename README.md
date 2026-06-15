@@ -10,7 +10,7 @@
   <a href="https://dev-faizankhan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/dev-faizan" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-faizankhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0101147b87f6f71286" target="_blank">
@@ -201,7 +201,7 @@ I'm always excited to discuss new opportunities, collaborate on interesting proj
   <a href="https://dev-faizankhan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/dev-faizan" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-faizankhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0101147b87f6f71286" target="_blank">

@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack Developer | Tech Innovator | Digital Architect
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;5%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Co-founder+%40+MetaPixus;Full+Stack+Developer;Web+and+Mobile+App+Developer;5%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/dev-faizankhan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-**🌟 Professional Full Stack Developer** with **5+ years** of experience crafting high-performing web, mobile, and desktop applications. Co-founder & Full-Stack Developer at **[MetaPixus](https://metapixus.com)** 🏢, a software company building client projects and in-house products. I lead a small team and take work end to end. I'm also available for freelance, working remotely with clients worldwide from Karachi 🌍.
+**🌟 Professional Full Stack Developer** with **5+ years** of experience crafting high-performing web, mobile, and desktop applications. Co-founder & Full-Stack Developer at **[MetaPixus](http://metapixus.github.io/)** 🏢, a software company building client projects and in-house products. I lead a small team and take work end to end. I'm also available for freelance, working remotely with clients worldwide from Karachi 🌍.
 
 I specialize in modern technologies and frameworks, delivering clean, user-friendly experiences with a focus on quality, performance, and continuous innovation.
 

@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack Developer | Tech Innovator | Digital Architect
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Co-founder+%40+MetaPixus;Full+Stack+Developer;Web+and+Mobile+App+Developer;5%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+and+Mobile+App+Developer;5%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/dev-faizankhan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-**🌟 Professional Full Stack Developer** with **5+ years** of experience crafting high-performing web, mobile, and desktop applications. Co-founder & Full-Stack Developer at **[MetaPixus](http://metapixus.github.io/)** 🏢, a software company building client projects and in-house products. I lead a small team and take work end to end. I'm also available for freelance, working remotely with clients worldwide from Karachi 🌍.
+**🌟 Professional Full Stack Developer** with **5+ years** of experience crafting high-performing web, mobile, and desktop applications. I take projects end to end, from architecture and design through to deployment, and I'm available for freelance work, collaborating remotely with clients worldwide from Karachi 🌍.
 
 I specialize in modern technologies and frameworks, delivering clean, user-friendly experiences with a focus on quality, performance, and continuous innovation.
 
@@ -40,7 +40,7 @@ I specialize in modern technologies and frameworks, delivering clean, user-frien
 const faizanKhan = {
   title: 'Full-Stack Developer',
   experience: '5+ years',
-  currentRole: 'Co-founder & Developer at MetaPixus',
+  currentRole: 'Freelance Full-Stack Developer',
   location: 'Karachi, Pakistan · Remote 🌍',
   expertise: [
     'Web Development',
@@ -185,7 +185,7 @@ const faizanKhan = {
 
 ## 🌟 Current Focus & Goals
 
-🔭 **Currently Working On:** Products and client projects at MetaPixus (the software company I co-founded), plus freelance work  
+🔭 **Currently Working On:** Client projects and freelance work  
 🌱 **Learning:** Advanced cloud architectures, AI/ML integration, Web3 technologies  
 👯 **Looking to Collaborate:** Open source projects, innovative startups, remote-first teams  
 💬 **Ask Me About:** Full-stack development, React/Next.js, mobile apps, database optimization  
